@@ -1,0 +1,2 @@
+/home/lroyd/ndk/workspace/native/build/CMakeFiles/NativeJNI.dir
+/home/lroyd/ndk/workspace/native/build/CMakeFiles/NativeJNI_CPP.dir

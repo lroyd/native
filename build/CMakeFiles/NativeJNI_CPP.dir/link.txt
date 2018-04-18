@@ -1,0 +1,1 @@
+/home/lroyd/my_ndk_toolchain/4.4/bin/arm-linux-androideabi-g++  -fPIC -W -g -llog -landroid   -shared -Wl,-soname,libNativeJNI_CPP.so -o libNativeJNI_CPP.so CMakeFiles/NativeJNI_CPP.dir/jni/native_cpp.cpp.o 
